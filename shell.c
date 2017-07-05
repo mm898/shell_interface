@@ -1,3 +1,7 @@
+/*
+* This is a C program to serve as a shell interface that accepts user commands,then executeeach command in a separate process.
+* In addition, provide a history feature that allows the user to access the most recently entered commands.
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
